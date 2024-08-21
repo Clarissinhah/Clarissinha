@@ -1,6 +1,6 @@
 # Clarissinha
 
-BEM VINDOS AO MEU PERFIL 🤡
+# BEM VINDOS AO MEU PERFIL 🤡
 
 Meu nome é Clarissa Ludmila 💟
 
@@ -10,3 +10,8 @@ Estou me desenvolvendo na linguagem JavaScript🐤
 
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos🐻
 
+# Você pode entrar em contato comigo 📫
+
+alurastartestudante@email.com
+
+@alurastartestudante
